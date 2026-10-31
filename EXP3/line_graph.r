@@ -25,7 +25,6 @@ A line graph is a data visualization technique used to represent changes in data
 R provides built-in plotting functions to create line graphs. The plot() function can be used with the type parameter set to "o" to show both lines and plotting symbols. Line graphs are useful for analyzing trends in sales, temperature, population, and other numerical data.
 
 R SOURCE CODE
-R
 months <- c("Jan", "Feb", "Mar", "Apr", "May", "Jun")
 sales <- c(100, 120, 90, 150, 170, 160)
 
