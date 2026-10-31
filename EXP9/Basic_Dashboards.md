@@ -1,12 +1,15 @@
-EXPERIMENT 9: CREATING BASIC DASHBOARDS IN TABLEAU
+# EXPERIMENT 9: CREATING BASIC DASHBOARDS IN TABLEAU
 
-AIM:
+## AIM:
+
 To create a basic interactive dashboard in Tableau by combining multiple visualizations into a single view for effective data analysis.
 
-DESCRIPTION:
+## DESCRIPTION:
+
 A dashboard in Tableau is a collection of multiple worksheets and visualizations displayed together on a single screen. It helps users monitor important information, compare different data values, and understand data easily. Tableau allows users to combine charts, graphs, maps, and filters in a dashboard. Dashboards can also be made interactive by adding filters and actions that help users explore data according to their requirements.
 
-APPLICATIONS:
+## APPLICATIONS:
+
 1. To monitor business performance.
 2. To compare sales and profit across different categories.
 3. To display important information in one place.
@@ -14,7 +17,8 @@ APPLICATIONS:
 5. To create interactive reports for decision-making.
 6. To present data clearly to users and management.
 
-ALGORITHM:
+## ALGORITHM:
+
 1. Start Tableau Desktop or Tableau Public.
 2. Connect to the required dataset.
 3. Create a worksheet containing a bar chart.
@@ -28,7 +32,7 @@ ALGORITHM:
 11. Save the dashboard.
 12. Stop the process.
 
-PROGRAM / PROCEDURE:
+## PROGRAM / PROCEDURE:
 
 Tableau is a graphical data visualization tool, so this experiment is performed using its interface rather than a traditional programming script.
 
@@ -47,7 +51,8 @@ Steps to create a dashboard:
 11. Test the filter and check whether the dashboard updates as expected.
 12. Save the workbook.
 
-PROGRAM EXPLANATION:
+## PROGRAM EXPLANATION:
+
 1. Data Source: Provides the data used to create the visualizations.
 2. Worksheet: Contains an individual chart or graph.
 3. Bar Chart: Compares sales values across categories.
@@ -59,8 +64,10 @@ PROGRAM EXPLANATION:
 9. Filter: Allows users to display data that matches selected conditions.
 10. Save Workbook: Stores the dashboard and its associated worksheets.
 
-SAMPLE OUTPUT:
+## SAMPLE OUTPUT:
+
 A dashboard titled "Sales Analysis Dashboard" is displayed with a bar chart showing sales by category, a line chart showing sales over time, and a chart showing profit by category. A filter can be used to explore the displayed information.
 
-RESULT:
+## RESULT:
+
 Thus, a basic dashboard was successfully created in Tableau by combining multiple worksheets and adding suitable titles, layouts, and filters for effective data visualization.
